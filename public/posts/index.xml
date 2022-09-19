@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Sep 2022 15:34:52 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo Post</title>
+      <link>http://example.org/posts/demo_post/</link>
+      <pubDate>Sat, 17 Sep 2022 15:34:52 -0400</pubDate>
+      
+      <guid>http://example.org/posts/demo_post/</guid>
+      <description>My name is
+\begin{equation} 2 = 5x + 3 + \begin{bmatrix} 1 &amp;amp; 2 \\ 3 &amp;amp; 4 \end{bmatrix} \end{equation} $$ $$ \begin{align} h = 1 \\ b = 2 \end{align} Otman and this is my first post There should have been a video here but your browser does not seem to support it. </description>
+    </item>
+    
+  </channel>
+</rss>
