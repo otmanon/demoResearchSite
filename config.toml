@@ -1,4 +1,4 @@
-baseURL = 'https://gitlab.com/otmanon/demoprivateresearchsite/'
+baseURL = 'https://otmanon.gitlab.io/demoprivateresearchsite/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
